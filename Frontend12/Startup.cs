@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace MyPortfolio
+namespace Frontend12
 {
     public class Startup
     {
@@ -27,6 +27,7 @@ namespace MyPortfolio
 
             app.UseDefaultFiles();
             app.UseStaticFiles();
+
         }
     }
 }

@@ -1,0 +1,44 @@
+﻿body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+nav {
+    background-color: #ACB2EB;
+}
+nav a {
+    text-color: #282A3F;
+    font-weight: bold;
+    font-family: Salsa;
+}
+
+#logo{
+    width: 40px;
+    height: 40px;
+}
+
+.navigation {
+    margin-top: -3.5rem;
+}
+
+main {
+    flex: 1;
+    margin-top: 3.5rem;
+}
+
+.footer {
+    width: 100%;
+    background-color: #202020;
+}
+
+footer span {
+    font-size: 24px;
+    color: #EAEAEA;
+    font-family: Salsa;
+}
+
+footer p {
+    font-size: 18px;
+    color: #EAEAEA;
+    font-family: Salsa;
+}
