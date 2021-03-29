@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11f893a1-b90a-4dd9-9f5d-408f167474e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPortfolio.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MyPortfolio.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPortfolio/MyPortfolio.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPortfolio/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPortfolio/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPortfolio/Startup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPortfolio/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPortfolio/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPortfolio/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPortfolio/wwwroot/Index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPortfolio/wwwroot/scripts/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPortfolio/wwwroot/styles/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +20,8 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Frontend12/wwwroot/index.css" />
       <option value="$PROJECT_DIR$/Frontend12/wwwroot/Index.html" />
+      <option value="$PROJECT_DIR$/Frontend12/wwwroot/index.css" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1qR0i1ISLkBI4o5lbndGSEzavCU" />
@@ -92,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617027223854</updated>
-      <workItem from="1617027235369" duration="3375000" />
+      <workItem from="1617027235369" duration="9113000" />
     </task>
     <servers />
   </component>

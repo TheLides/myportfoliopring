@@ -32,6 +32,8 @@
           <e p="Index.html" t="Include" />
           <e p="index.js" t="Include" />
           <e p="Pictures" t="Include">
+            <e p="cover-image-1-8.png" t="Include" />
+            <e p="doccheck-tha-brand-icon.png" t="Include" />
             <e p="Logo12.png" t="Include" />
           </e>
           <e p="vendor.min.css" t="Include" />
