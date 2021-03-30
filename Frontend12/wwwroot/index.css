@@ -7,10 +7,17 @@
 nav {
     background-color: #ACB2EB;
 }
+
+.salsa{
+    font-family: Salsa;
+}
+
+.quando {
+    font-family: Quando;
+}
 nav a {
     text-color: #282A3F;
     font-weight: bold;
-    font-family: Salsa;
 }
 
 #logo{
@@ -29,8 +36,45 @@ main {
 
 .firstPartPic {
     float: left;
+    width: 550px;
+    margin-left: -90%;
 }
 
+.firstPartText {
+    float: left;
+    width: 400px;
+    text-align: right;
+    margin-top: 120px;
+    margin-left: 65%;
+}
+
+.btnMy {
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+.mainBtn {
+    background: #CF89D3;
+    color: #FDFDFD;
+    border-color: #CF89D3;
+}
+    .mainBtn:active,
+    .mainBtn:focus {
+        outline: none;
+    }
+
+.moreInfoBtn {
+    background: #EECBF0;
+    color: #8084AB;
+    border-color: #ACB2EB;
+}
+
+    .moreInfoBtn:active,
+    .moreInfoBtn:focus {
+        outline: none;
+    }
 #picOnFirstPart {
     position: relative;
     width: 400px;
@@ -65,11 +109,24 @@ main {
 .footer span {
     font-size: 24px;
     color: #EAEAEA;
-    font-family: Salsa;
 }
 
 .footer p {
     font-size: 18px;
     color: #EAEAEA;
-    font-family: Salsa;
+}
+
+@media (max-width: 1000px) {
+    .firstPartPic {}
+}
+
+@media(max-width: 1100px){
+    .firstPartText{
+        float: none;
+        margin: 120px auto;
+    }
+    .firstPartPic{
+        float: none;
+        margin: 0 auto;
+    }
 }
