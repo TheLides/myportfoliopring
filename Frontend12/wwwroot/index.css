@@ -15,6 +15,9 @@ nav {
 .quando {
     font-family: Quando;
 }
+
+/*   Navbar   */
+
 nav a {
     text-color: #282A3F;
     font-weight: bold;
@@ -34,10 +37,21 @@ main {
     margin-top: 3.5rem;
 }
 
+.sitePart {
+    width: 100%;
+    height: 100vh;
+}
+
+.sitePart.greyPart {
+    background: #878588;
+}
+
+/*   Site parts   */
+
 .firstPartPic {
     float: left;
     width: 550px;
-    margin-left: -90%;
+    margin-left: -85%;
 }
 
 .firstPartText {
@@ -45,8 +59,26 @@ main {
     width: 400px;
     text-align: right;
     margin-top: 120px;
-    margin-left: 65%;
+    margin-left: 62%;
 }
+
+.secondPartText {
+    float: left;
+    width: 530px;
+    text-align: left;
+    margin-top: 120px;
+    padding-left: 160px;
+    margin-right: 38%;
+}
+
+.secondPartPic {
+    float: left;
+    height: 600px;
+    width: 600px;
+    margin-left: -25%;
+}
+
+/*   Buttons   */
 
 .btnMy {
     width: 150px;
@@ -75,11 +107,14 @@ main {
     .moreInfoBtn:focus {
         outline: none;
     }
+    
+/*   Site's first part parts   */
+
 #picOnFirstPart {
     position: relative;
     width: 400px;
     height: 200px;
-    left: 150px;
+    left: 100px;
     top: -50px;
     border-radius: 10px;
 }
@@ -88,7 +123,6 @@ main {
     position: relative;
     width: 190px;
     height: 190px;
-    left: 80px;
     top: 50px;
     z-index: -1;
     border-radius: 50%;
@@ -100,8 +134,105 @@ main {
     width: 140px;
     height: 140px;
     top: 30px;
-    left: 65px;
+    left: 50px;
 }
+
+/*   Site's second part parts   */
+
+#picOnSecondPart {
+    position: relative;
+    width: 420px;
+    height: 450px;
+    border-radius: 10px;
+    right: -150px;
+    top: 70px;
+}
+
+#mailOnSecondPart {
+    position: relative;
+    width: 170px;
+    height: 150px;
+    left: 70px;
+    top: -610px;
+}
+
+#starOnSecondPart {
+    top: -430px;
+    left: 250px;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    background: #F3F4F6;
+    position: relative;
+    transform: rotate(20deg);
+    
+}
+#starOnSecondPart:before {
+    content: "";
+    height: 50px;
+    width: 50px;
+    background: inherit;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: rotate(135deg);
+}
+
+#starBorder {
+    top: -365px;
+    left: 245px;
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    background: #EECBF0;
+    position: relative;
+    transform: rotate(20deg);
+}
+
+#starBorder:before {
+    content: "";
+    height: 60px;
+    width: 60px;
+    background: inherit;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: rotate(135deg);
+}
+
+#circleUnfilled {
+    position: relative;
+    top: -130px;
+    left: 210px;
+    width: 50px;
+    height: 50px;
+    background: #ACB2EB;
+    border-radius: 50%;
+}
+
+#circleFilled {
+    position: relative;
+    top: -560px;
+    left: 530px;
+    width: 30px;
+    height: 30px;
+    background: #F3F4F6;
+    border-radius: 50%;
+}
+
+#circleFilledBorder {
+    position: relative;
+    top: -525px;
+    left: 525px;
+    width: 40px;
+    height: 40px;
+    background: #ACB2EB;
+    border-radius: 50%;
+}
+
+
+/*   Last part   */
+
 .footer {
     background-color: #202020;
 }
@@ -116,17 +247,32 @@ main {
     color: #EAEAEA;
 }
 
-@media (max-width: 1000px) {
-    .firstPartPic {}
-}
 
 @media(max-width: 1100px){
+    .sitePart {
+        height: 100%;
+    }
     .firstPartText{
         float: none;
         margin: 120px auto;
     }
     .firstPartPic{
         float: none;
-        margin: 0 auto;
+        margin: 50px auto;
     }
+    
+    .secondPartText {
+        float: none;
+        margin: 50px auto;
+        padding-top: 50px;
+        padding-left: 50px;
+    }
+    .secondPartPic {
+        float: none;
+        margin: 50px auto;
+    }
+    /*.secondPartPic img {*/
+    /*    top: 0;*/
+    /*    left: 0;*/
+    /*}*/
 }
