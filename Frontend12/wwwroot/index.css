@@ -49,6 +49,7 @@ main {
 /*   Site parts   */
 
 .firstPartPic {
+    margin-top: 5%;
     float: left;
     width: 550px;
     margin-left: -85%;
@@ -58,7 +59,7 @@ main {
     float: left;
     width: 400px;
     text-align: right;
-    margin-top: 120px;
+    margin-top: 15%;
     margin-left: 62%;
 }
 
@@ -66,12 +67,13 @@ main {
     float: left;
     width: 530px;
     text-align: left;
-    margin-top: 120px;
+    margin-top: 15%;
     padding-left: 160px;
     margin-right: 38%;
 }
 
 .secondPartPic {
+    margin-top: 5%;
     float: left;
     height: 600px;
     width: 600px;
@@ -230,6 +232,16 @@ main {
     border-radius: 50%;
 }
 
+/*   Site's third part parts   */
+
+.myCard {
+    background: #7391CC;
+    border: 2px solid #282A3F;
+}
+
+.cards {
+    padding-top: 5%;
+}
 
 /*   Last part   */
 

@@ -4,7 +4,13 @@
     <projectFile>Frontend12/MyPortfolio.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11f893a1-b90a-4dd9-9f5d-408f167474e2" name="Default Changelist" comment="" />
+    <list default="true" id="11f893a1-b90a-4dd9-9f5d-408f167474e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +21,9 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Frontend12/wwwroot/Index.html" />
+      <option value="$PROJECT_DIR$/Frontend12/wwwroot/index.js" />
       <option value="$PROJECT_DIR$/Frontend12/wwwroot/index.css" />
+      <option value="$PROJECT_DIR$/Frontend12/wwwroot/Index.html" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1qR0i1ISLkBI4o5lbndGSEzavCU" />
@@ -83,6 +90,7 @@
       <workItem from="1617106204335" duration="780000" />
       <workItem from="1617109422500" duration="5443000" />
       <workItem from="1617366665926" duration="10689000" />
+      <workItem from="1617471046681" duration="4130000" />
     </task>
     <servers />
   </component>
