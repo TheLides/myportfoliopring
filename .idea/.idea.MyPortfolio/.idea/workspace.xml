@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11f893a1-b90a-4dd9-9f5d-408f167474e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Frontend12/wwwroot/Registry.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend12/wwwroot/registry.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/vendor.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/vendor.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/vendor.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/vendor.min.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,8 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/Frontend12/wwwroot/index.js" />
       <option value="$PROJECT_DIR$/Frontend12/wwwroot/index.css" />
+      <option value="$PROJECT_DIR$/Frontend12/wwwroot/Registry.html" />
+      <option value="$PROJECT_DIR$/Frontend12/wwwroot/registry.css" />
       <option value="$PROJECT_DIR$/Frontend12/wwwroot/Index.html" />
     </changedPaths>
   </component>
@@ -91,6 +96,7 @@
       <workItem from="1617366665926" duration="10689000" />
       <workItem from="1617471046681" duration="4451000" />
       <workItem from="1617784545671" duration="4678000" />
+      <workItem from="1617810338631" duration="4488000" />
     </task>
     <task id="LOCAL-00001" summary="Third part done">
       <created>1617476533557</created>
