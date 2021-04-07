@@ -46,38 +46,26 @@ main {
     background: #878588;
 }
 
-/*   Site parts   */
-
-.firstPartPic {
-    margin-top: 5%;
-    float: left;
-    width: 550px;
-    margin-left: -85%;
+.sitePart.finalPart {
+    background-image: url(Pictures/banner_documents-verification.jpg);
+    background-position: center;
+    background-size: cover;
 }
 
+/*   Site parts   */
+
 .firstPartText {
-    float: left;
-    width: 400px;
     text-align: right;
     margin-top: 15%;
-    margin-left: 62%;
 }
 
 .secondPartText {
-    float: left;
-    width: 530px;
     text-align: left;
-    margin-top: 15%;
-    padding-left: 160px;
-    margin-right: 38%;
+    margin-top: 10%;
 }
 
-.secondPartPic {
-    margin-top: 5%;
-    float: left;
-    height: 600px;
-    width: 600px;
-    margin-left: -25%;
+.lastPartText {
+    margin-top: 15%
 }
 
 /*   Buttons   */
@@ -110,6 +98,9 @@ main {
         outline: none;
     }
     
+.goUpBtn {
+    background: #D1D1D9;
+}    
 /*   Site's first part parts   */
 
 #picOnFirstPart {
@@ -265,22 +256,18 @@ main {
         height: 100%;
     }
     .firstPartText{
-        float: none;
         margin: 120px auto;
     }
     .firstPartPic{
-        float: none;
         margin: 50px auto;
     }
     
     .secondPartText {
-        float: none;
         margin: 50px auto;
         padding-top: 50px;
         padding-left: 50px;
     }
     .secondPartPic {
-        float: none;
         margin: 50px auto;
     }
     /*.secondPartPic img {*/
