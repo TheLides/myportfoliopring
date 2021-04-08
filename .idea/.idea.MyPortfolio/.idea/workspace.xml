@@ -4,14 +4,8 @@
     <projectFile>Frontend12/MyPortfolio.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11f893a1-b90a-4dd9-9f5d-408f167474e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Frontend12/wwwroot/Registry.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend12/wwwroot/registry.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="59399e39-5965-4f23-8527-120c0e0e1573" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/vendor.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/vendor.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/vendor.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/vendor.min.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
