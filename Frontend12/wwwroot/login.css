@@ -103,27 +103,28 @@ main {
 
 .square {
     width: 130px;
-    height: 130px;
-    background: #CF89D3;
+    height: 260px;
+    background-image: url(Pictures/SquareLogin.PNG);
     position: absolute;
-    transform: rotate(45deg);
-    border: 5px solid #EECBF0;
-    left: 75%;
+    right: 0;
+    top: 30%;
 }
 
 .round {
     position: absolute;
-    width: 175px;
-    height: 130px;
-    bottom: 0;
-    right: 0;
-    background-image: url(Pictures/RegistryCircle.PNG);
+    width: 160px;
+    height: 160px;
+    top: 1%;
+    left: 10%;
+    background: #C4C8F3;
+    border-radius: 50%;
 }
 
 .diamond {
     position: absolute;
-    width: 120px;
-    height: 290px;
-    background-image: url(Pictures/RegistryDiamond.PNG);
-    top: 100px;
+    width: 280px;
+    height: 90px;
+    background-image: url(Pictures/LogInDiamond.PNG);
+    bottom:0;
+    left: 5%;
 }
