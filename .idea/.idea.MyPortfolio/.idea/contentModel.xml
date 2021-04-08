@@ -31,6 +31,8 @@
           <e p="index.css" t="Include" />
           <e p="Index.html" t="Include" />
           <e p="index.js" t="Include" />
+          <e p="login.css" t="Include" />
+          <e p="LogIn.html" t="Include" />
           <e p="Pictures" t="Include">
             <e p="banner_documents-verification.jpg" t="Include" />
             <e p="cover-image-1-8.png" t="Include" />
