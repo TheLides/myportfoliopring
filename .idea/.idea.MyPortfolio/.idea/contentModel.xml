@@ -39,6 +39,8 @@
             <e p="fatiga-1024x580.jpg" t="Include" />
             <e p="icon_desktop-05-min.png" t="Include" />
             <e p="Logo12.png" t="Include" />
+            <e p="RegistryCircle.PNG" t="Include" />
+            <e p="RegistryDiamond.PNG" t="Include" />
           </e>
           <e p="registry.css" t="Include" />
           <e p="Registry.html" t="Include" />

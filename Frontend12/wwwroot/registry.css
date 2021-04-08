@@ -100,3 +100,30 @@ main {
     padding-left: 12rem;
     padding-top: 5rem;
 }
+
+.square {
+    width: 130px;
+    height: 130px;
+    background: #CF89D3;
+    position: absolute;
+    transform: rotate(45deg);
+    border: 5px solid #EECBF0;
+    left: 75%;
+}
+
+.round {
+    position: absolute;
+    width: 175px;
+    height: 130px;
+    bottom: 0;
+    right: 0;
+    background-image: url(Pictures/RegistryCircle.PNG);
+}
+
+.diamond {
+    position: absolute;
+    width: 120px;
+    height: 290px;
+    background-image: url(Pictures/RegistryDiamond.PNG);
+    top: 100px;
+}

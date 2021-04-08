@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59399e39-5965-4f23-8527-120c0e0e1573" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/Registry.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/Registry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/registry.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/registry.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +23,9 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/Frontend12/wwwroot/index.js" />
       <option value="$PROJECT_DIR$/Frontend12/wwwroot/index.css" />
+      <option value="$PROJECT_DIR$/Frontend12/wwwroot/Index.html" />
       <option value="$PROJECT_DIR$/Frontend12/wwwroot/Registry.html" />
       <option value="$PROJECT_DIR$/Frontend12/wwwroot/registry.css" />
-      <option value="$PROJECT_DIR$/Frontend12/wwwroot/Index.html" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1qR0i1ISLkBI4o5lbndGSEzavCU" />
