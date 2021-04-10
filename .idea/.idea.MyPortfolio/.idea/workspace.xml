@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59399e39-5965-4f23-8527-120c0e0e1573" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyPortfolio/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/Registry.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/Registry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend12/wwwroot/registry.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend12/wwwroot/registry.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +29,11 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/Frontend12/wwwroot/index.js" />
       <option value="$PROJECT_DIR$/Frontend12/wwwroot/index.css" />
-      <option value="$PROJECT_DIR$/Frontend12/wwwroot/Registry.html" />
       <option value="$PROJECT_DIR$/Frontend12/wwwroot/Index.html" />
-      <option value="$PROJECT_DIR$/Frontend12/wwwroot/registry.css" />
       <option value="$PROJECT_DIR$/Frontend12/wwwroot/LogIn.html" />
       <option value="$PROJECT_DIR$/Frontend12/wwwroot/login.css" />
+      <option value="$PROJECT_DIR$/Frontend12/wwwroot/Registry.html" />
+      <option value="$PROJECT_DIR$/Frontend12/wwwroot/registry.css" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1qR0i1ISLkBI4o5lbndGSEzavCU" />
@@ -91,7 +91,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="11f893a1-b90a-4dd9-9f5d-408f167474e2" name="Default Changelist" comment="" />
+      <changelist id="59399e39-5965-4f23-8527-120c0e0e1573" name="Default Changelist" comment="" />
       <created>1617027223854</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -103,6 +103,7 @@
       <workItem from="1617471046681" duration="4451000" />
       <workItem from="1617784545671" duration="4678000" />
       <workItem from="1617810338631" duration="4488000" />
+      <workItem from="1618064134267" duration="662000" />
     </task>
     <task id="LOCAL-00001" summary="Third part done">
       <created>1617476533557</created>
