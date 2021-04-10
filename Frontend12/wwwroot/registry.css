@@ -127,3 +127,15 @@ main {
     background-image: url(Pictures/RegistryDiamond.PNG);
     top: 100px;
 }
+
+@media(max-width: 850px){
+    .decorativeFigure {
+        visibility: hidden;
+    }
+    .square {
+        top:0;
+        left:0;
+    }
+    
+    
+}
