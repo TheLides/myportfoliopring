@@ -49,6 +49,8 @@
           </e>
           <e p="registry.css" t="Include" />
           <e p="Registry.html" t="Include" />
+          <e p="UserHome.css" t="Include" />
+          <e p="UserHome.html" t="Include" />
           <e p="vendor.min.css" t="Include" />
           <e p="vendor.min.js" t="Include" />
         </e>
