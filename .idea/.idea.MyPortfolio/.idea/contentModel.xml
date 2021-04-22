@@ -28,6 +28,7 @@
         </e>
         <e p="Startup.cs" t="Include" />
         <e p="wwwroot" t="Include">
+          <e p="commonCSS.css" t="Include" />
           <e p="index.css" t="Include" />
           <e p="Index.html" t="Include" />
           <e p="index.js" t="Include" />

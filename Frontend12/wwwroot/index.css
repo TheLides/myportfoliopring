@@ -1,57 +1,6 @@
-﻿body {
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-    background: #EECBF0;
+﻿.sitePart {
+    height: 100vh!important;
 }
-nav {
-    background-color: #ACB2EB;
-}
-
-.salsa{
-    font-family: Salsa;
-}
-
-.quando {
-    font-family: Quando;
-}
-
-/*   Navbar   */
-
-nav a {
-    text-color: #282A3F;
-    font-weight: bold;
-}
-
-#logo{
-    width: 40px;
-    height: 40px;
-}
-
-.navigation {
-    margin-top: -3.5rem;
-}
-
-main {
-    flex: 1;
-    margin-top: 3.5rem;
-}
-
-.sitePart {
-    width: 100%;
-    height: 100vh;
-}
-
-.sitePart.greyPart {
-    background: #878588;
-}
-
-.sitePart.finalPart {
-    background-image: url(Pictures/banner_documents-verification.jpg);
-    background-position: center;
-    background-size: cover;
-}
-
 /*   Site parts   */
 
 .firstPartText {
@@ -67,40 +16,7 @@ main {
 .lastPartText {
     margin-top: 15%
 }
-
-/*   Buttons   */
-
-.btnMy {
-    width: 150px;
-    height: 50px;
-    border-radius: 10px;
-    margin-left: 20px;
-}
-
-.mainBtn {
-    background: #CF89D3;
-    color: #FDFDFD;
-    border-color: #CF89D3;
-}
-    .mainBtn:active,
-    .mainBtn:focus {
-        outline: none;
-    }
-
-.moreInfoBtn {
-    background: #EECBF0;
-    color: #8084AB;
-    border-color: #ACB2EB;
-}
-
-    .moreInfoBtn:active,
-    .moreInfoBtn:focus {
-        outline: none;
-    }
-    
-.goUpBtn {
-    background: #D1D1D9;
-}    
+ 
 /*   Site's first part parts   */
 
 #picOnFirstPart {
