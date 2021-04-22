@@ -2,7 +2,7 @@
     display: flex;
     height: 100%;
     flex-direction: column;
-    background: #EECBF0;
+    background: #7391CC;
 }
 
 html {
@@ -12,7 +12,11 @@ nav {
     background-color: #ACB2EB;
 }
 
-.salsa{
+li {
+    list-style-type: none;
+}
+
+.salsa {
     font-family: Salsa;
 }
 
@@ -46,10 +50,6 @@ main {
     height: 100%;
 }
 
-.sitePart.bluePart {
-    background: #7391CC;
-}
-
 .sitePart.finalPart {
     background-image: url(Pictures/banner_documents-verification.jpg);
     background-position: center;
@@ -59,7 +59,7 @@ main {
 /*   Buttons   */
 
 .btnMy {
-    width: 150px;
+    width: 170px;
     height: 50px;
     border-radius: 10px;
     margin-left: 20px;
@@ -76,7 +76,7 @@ main {
     }
 
 .cleanBtn {
-    background: #878588;
+    background: rgba(0,0,0,0);
     color: #EECBF0;
     border-color: #CF89D3;
 }
@@ -87,50 +87,29 @@ main {
     }
     
 /*   Page   */
-.registryText{
-    color: #FDFDFD;
-}
 
-.input {
-    background: #DEDEDE;
-    width: 250px;
-}
-
-.registryForm{
-    padding-left: 12rem;
-    padding-top: 5rem;
-}
-
-.square {
-    width: 130px;
-    height: 260px;
-    background-image: url(Pictures/SquareLogin.PNG);
-    position: absolute;
-    right: 0;
-    top: 30%;
-}
-
-.round {
-    position: absolute;
-    width: 160px;
-    height: 160px;
-    top: 1%;
-    left: 10%;
-    background: #C4C8F3;
+.circle {
+    position: relative;
+    width: 190px;
+    height: 190px;
+    top: 50px;
+    left: 100px;
+    z-index: -1;
     border-radius: 50%;
+    background: #CF89D3;
 }
 
-.diamond {
+.portrait {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+    top: -95px;
+    left: 145px;
+}
+
+.btns {
     position: absolute;
-    width: 280px;
-    height: 90px;
-    background-image: url(Pictures/LogInDiamond.PNG);
-    bottom:0;
-    left: 5%;
-}
-
-@media (max-width: 790px) {
-    .decorativeFigure {
-        visibility: hidden;
-    }
+    bottom: 1%;
+    right: 3%;
 }
