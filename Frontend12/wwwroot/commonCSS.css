@@ -71,10 +71,18 @@ main {
     outline: none;
 }
 
-.emptyBackBtn {
-    background: rgba(0,0,0,0);
+.violetBtn {
     color: #8084AB;
     border-color: #ACB2EB;
+}
+
+.pinkBtn {
+    color: #EECBF0;
+    border-color: #EECBF0;
+}
+
+.emptyBackBtn {
+    background: rgba(0,0,0,0);
 }
 
 .emptyBackBtn:active,
