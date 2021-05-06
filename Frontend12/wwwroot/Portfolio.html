@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="/vendor.min.css"/>
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="login.css"/>
+    <link rel="stylesheet" href="Portfolio.css"/>
     <link rel="stylesheet" href="commonCSS.css"/>
 
     <!-- Font Salsa -->
@@ -21,14 +21,12 @@
     <!-- Web fonts -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
           integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-
-
     <title>MyPortfolio</title>
 </head>
 <body>
 <header>
     <nav class="navbar navbar-expand-lg fixed-top navbar-light">
-        <a class="navbar-brand" href="Index.html"><img id="logo" src="Pictures/Logo12.png" alt="Logo"/></a>
+        <a class="navbar-brand" href="#"><img id="logo" src="Pictures/Logo12.png" alt="Logo"/></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -37,7 +35,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link salsa" href="">About us</a>
+                    <a class="nav-link salsa" href="Index.html">About us</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link salsa" href="">News</a>
@@ -52,32 +50,38 @@
             </ul>
         </div>
     </nav>
-    <div class="square decorativeFigure"></div>
 </header>
-<main>
-    <div class="sitePart otherPart">
-        <div class="text-center pt-5">
-            <h1 class="quando registryAndLoginText">Welcome back!</h1>
-            <p class="quando registryAndLoginText pt-2"></p>
+<div class="sitePart container-fluid mt-5">
+    <div class="row">
+        <div class="col-md-4 col-12">
+            <div class="circle"></div>
+            <img class="portrait" src="Pictures/novobush.jpg" alt="Portrait">
         </div>
-        <div class="form-row d-flex justify-content-center pt-5 pb-3" style="width: 100%">
-            <div class="form-group">
-                <input type="email" class="form-control input" id="Email" placeholder="Email">
+        <div class="col-md-8 col-12 pt-5">
+            <div class="row">
+                <h1 class="quando">Hello! My name is TestUser!</h1>
+            </div>
+            <div class="row mt-3">
+                <h5 class="quando">And here are my works:</h5>
             </div>
         </div>
-        <div class="form-row d-flex justify-content-center pb-5" style="width: 100%">
-            <div class="form-group">
-                <input type="password" class="form-control input" id="Password" placeholder="Password">
-            </div>
-        </div>
-        <div class="pr-5 d-flex justify-content-center">
-            <button class="mainBtn btnMy">Log in</button>
-        </div>
-        <div class="round decorativeFigure"></div>
-        <div class="diamond decorativeFigure"></div>
     </div>
-</main>
-<script src="/vendor.min.js"></script>
-<script type="text/javascript" src="index.js"></script>
+    <div class="row">
+        <div class="col-md-6 col-12 pl-5">
+            <div class="row">
+                <h4 class="quando">Work №1 - NameOfWork</h4>
+            </div>
+            <div class="row">
+                <div class="col-12 p-0">
+                    <p class="quando text-wrap">
+                        DescriptionOfWork DescriptionOfWork DescriptionOfWork DescriptionOfWork DescriptionOfWork DescriptionOfWork DescriptionOfWork DescriptionOfWork DescriptionOfWork DescriptionOfWork DescriptionOfWork DescriptionOfWork</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 col-12">
+            <img style="margin-top: -100px" class="portfolioPic" src="Pictures/original%20(1).jpg" alt="pic">
+        </div>
+    </div>
+</div>
 </body>
 </html>
