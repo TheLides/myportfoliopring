@@ -45,10 +45,17 @@
             <e p="LogInDiamond.PNG" t="Include" />
             <e p="Logo12.png" t="Include" />
             <e p="novobush.jpg" t="Include" />
+            <e p="original (1).jpg" t="Include" />
+            <e p="PortfolioCircle.PNG" t="Include" />
+            <e p="PortfolioSquare.PNG" t="Include" />
+            <e p="PortfolioStar.PNG" t="Include" />
+            <e p="ProfileSquarePNG.PNG" t="Include" />
             <e p="RegistryCircle.PNG" t="Include" />
             <e p="RegistryDiamond.PNG" t="Include" />
             <e p="SquareLogin.PNG" t="Include" />
           </e>
+          <e p="Portfolio.css" t="Include" />
+          <e p="Portfolio.html" t="Include" />
           <e p="registry.css" t="Include" />
           <e p="Registry.html" t="Include" />
           <e p="UserHome.css" t="Include" />
