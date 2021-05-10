@@ -41,12 +41,12 @@
     width: 108px;
     position: relative;
     top: -30%;
-    right: -92.9%;
+    left: calc(100% - 93px);
 }
 
 .portraitSquare {
     position: relative;
-    bottom: 11%;
+    top: 5%;
     left: 35%;
     width: 187px;
 }
